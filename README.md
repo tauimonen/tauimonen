@@ -24,7 +24,7 @@
 </div>
 
 <div>
-<h5>Education: B.Sc. & mec. eng. studies</h5>
+<h5>Education: B.Sc. in computer science & mec. eng. studies</h5>
 <div>
 
 ![tauimonen's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauimonen&theme=merko&show_icons=true)
