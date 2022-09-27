@@ -1,4 +1,4 @@
-<h2>Continuous learning, an active, sporty and happy life. I am happy to join open source projects and discuss job offers.</h2>
+<h2>Continuous learning and active life. I am happy to join open source projects and discuss job offers.</h2>
 <p align="center">
   <img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"style="object-fit:contain;
             width:300px;
