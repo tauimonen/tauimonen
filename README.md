@@ -29,6 +29,7 @@
 
 ![tauimonen's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauimonen&theme=merko&show_icons=true)
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
  
 Thank you for visiting my profile!
