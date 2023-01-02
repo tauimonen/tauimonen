@@ -19,6 +19,7 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<br>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
@@ -29,6 +30,7 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<br>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
@@ -40,15 +42,6 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="" />
-  
 
 <br />
 </div>
