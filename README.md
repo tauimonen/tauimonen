@@ -27,6 +27,29 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="" />
+  
+
 <br />
 </div>
 
@@ -37,5 +60,7 @@
 ![tauimonen's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauimonen&theme=merko&show_icons=true)
 
 ![snake gif](https://github.com/tauimonen/tauimonen/blob/output/github-contribution-grid-snake.svg)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={tauimonen}
  
 Thank you for visiting my profile!
