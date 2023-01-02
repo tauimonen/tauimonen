@@ -45,7 +45,7 @@
 
 <br />
 </div>
-
+<br>
 <div>
 <h5>Education: B.Sc. in computer science & mec. eng. studies</h5>
 <div>
