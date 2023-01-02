@@ -8,6 +8,9 @@
 
 <p>Java, Python, JavaScript, HTML, CSS, SQL, Git, Docker, Azure, agile dev...</p>
 <div>
+<h5>Education: B.Sc. in computer science & mec. eng. studies</h5>
+<div>
+<div>
 <br>
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -46,9 +49,6 @@
 <br />
 </div>
 <br>
-<div>
-<h5>Education: B.Sc. in computer science & mec. eng. studies</h5>
-<div>
 
 ![tauimonen's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauimonen&theme=merko&show_icons=true)
 
