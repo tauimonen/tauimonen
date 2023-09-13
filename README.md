@@ -42,5 +42,5 @@
 <br />
 </div>
 <br>
- 
-Thank you for visiting my profile!
+
+
