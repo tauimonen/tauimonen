@@ -5,7 +5,7 @@
             border: solid 1px #CCC"/>
 </p>
 
-<p>Java, Python, HTML, CSS, SQL, Git, Docker, Azure, cybersecurity, agile dev...</p>
+<p>Java + Spring Boot, Python, HTML, CSS, SQL, Git, Docker, Azure, cybersecurity, agile dev...</p>
 <div>
 <h5>Education: B.Sc. in computer science & mec. eng. studies</h5>
 <div>
