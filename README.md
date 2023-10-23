@@ -6,7 +6,10 @@
 </p>
 
 <p>Java + Spring Boot, Python, HTML, CSS, SQL, Git, Docker, Azure, cybersecurity, Bash, PowerShell, agile dev...</p>
-<p>Depending on how you count, I've used about 20 different programming languages over the past 20+ years.</p>
+<br>
+<p>Hello! I'm a dynamic and results-driven individual with a diverse background spanning process industries, logistics, and various technical roles. My journey began with a strong foundation in electrical and automation engineering, followed by in-depth studies in computer science. These experiences have not only equipped me with a deep understanding of the ever-evolving tech landscape but also honed my problem-solving and analytical skills.</p>
+<br>
+<p>Depending on how you count, I've used about 20 different programming languages over the past 20+ years. Plenty of different integrated development environments, frameworks, platforms and methods. I communicate smoothly in the team and with different stakeholders. I'm also efficient at working and studying alone/remotely. I also have good written documentation skills. Link to my blog: https://toniuimonen.hashnode.dev/</p>
 <div>
 <h5>Education: B.Sc. in computer science & mec. eng. studies</h5>
 <div>
