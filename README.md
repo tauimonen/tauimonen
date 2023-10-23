@@ -5,7 +5,8 @@
             border: solid 1px #CCC"/>
 </p>
 
-<p>Java + Spring Boot, Python, HTML, CSS, SQL, Git, Docker, Azure, cybersecurity, agile dev...</p>
+<p>Java + Spring Boot, Python, HTML, CSS, SQL, Git, Docker, Azure, cybersecurity, Bash, PowerShell, agile dev...</p>
+<p>Depending on how you count, I've used about 20 different programming languages over the past 20+ years.</p>
 <div>
 <h5>Education: B.Sc. in computer science & mec. eng. studies</h5>
 <div>
