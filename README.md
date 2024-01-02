@@ -5,7 +5,7 @@
             border: solid 1px #CCC"/>
 </p>
 
-<p>Java, Spring Boot, Hibernate, Maven, JUnit, Mockito, REST APIs, Python, HTML, CSS, SQL, Git, Docker, Azure, cybersecurity, agile dev...</p>
+<p>Java, Spring Boot, Hibernate, Maven, JUnit, Mockito, REST APIs, Python, React, HTML, CSS, SQL, Git, Docker, Azure, agile dev...</p>
 <div>
 <h5>Education: B.Sc. in computer science & mec. eng. studies</h5>
 <h5>Blog: https://toniuimonen.hashnode.dev/</h5>
