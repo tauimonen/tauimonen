@@ -6,14 +6,6 @@
 </p>
 
 <p>Java, Spring Boot, Hibernate, Maven, JUnit, Mockito, REST APIs, Python, HTML, CSS, SQL, Git, Docker, Azure, cybersecurity, agile dev...</p>
-<br>
-<p>Hello! I'm a dynamic and results-driven individual with a diverse background spanning process industries, logistics, and various technical roles. My journey began with a strong foundation in electrical and automation engineering, followed by in-depth studies in computer science. These experiences have not only equipped me with a deep understanding of the ever-evolving tech landscape but also honed my problem-solving and analytical skills.
-  
-Depending on how you count, I've used about 20 different programming languages over the past 20+ years. Plenty of different integrated development environments, frameworks, platforms and methodologies. I communicate smoothly in team and with different stakeholders. I'm also efficient at working and studying alone/remotely. 
-
-With a skill set that allows me to adapt and thrive in diverse, fast-paced environments, I can be a valuable asset to forward-thinking organizations. If you're seeking a passionate, adaptable, and tech-savvy professional to enhance your team, I'd love to connect. Let's explore how my expertise can contribute to your company's success, fostering innovation and growth.
-
-Feel free to reach out for networking opportunities, collaborations, or discussions on the latest tech trends. Together, we can shape the future of technology.</p>
 <div>
 <h5>Education: B.Sc. in computer science & mec. eng. studies</h5>
 <h5>Blog: https://toniuimonen.hashnode.dev/</h5>
