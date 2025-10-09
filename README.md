@@ -7,7 +7,7 @@
 
 <p>Java, Spring Boot, Hibernate, Maven, JUnit, Mockito, REST APIs, Python, React, HTML, CSS, SQL, Git, Docker, Azure, agile dev...</p>
 <div>
-<p>Currently exploring Advanced Data Analytics, focusing on data processing with Python, visualization with Python & Power BI, cloud tools including Azure Databricks & Spark SQL, MLOps/CI-CD, and developing expertise in data engineering.</p>
+<p>Currently exploring Advanced Data Analytics, focusing on data processing with Python, machine learning, visualization with Python & Power BI, cloud tools including Azure Databricks & Spark SQL, MLOps/CI-CD, and developing expertise in data engineering.</p>
 <h5>Education: B.Sc. in computer science & mec. eng. studies</h5>
 <h5>Blog: https://toniuimonen.hashnode.dev/</h5>
 <div>
