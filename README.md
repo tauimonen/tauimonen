@@ -5,11 +5,13 @@
             border: solid 1px #CCC"/>
 </p>
 
-<p>Java, Spring Boot, Hibernate, Maven, JUnit, Mockito, REST APIs, Python, React, HTML, CSS, SQL, Git, Docker, Azure, agile dev...</p>
+<p>Java, Spring Boot, Hibernate, Maven, JUnit, Mockito, REST APIs, Python, React, HTML, CSS, SQL, Git, Docker, Azure, Agile development, AI-assisted development (Codex, Cursor, LLMs, specification-driven workflows).</p>
 <div>
 <p>I have a solid foundation in programming, software development, and applied problem-solving, with practical experience in backend development (Java & Spring Boot, including REST APIs) and cloud computing (Azure).<p>
 
-<p>I am currently advancing my expertise in data engineering, focusing on Python-based data processing, machine learning, and cloud tools including Azure, Databricks, Fabric, PySpark, Spark SQL, and MLOps/CI/CD.<p>
+<p>I am currently advancing my expertise in data engineering, focusing on Python-based data processing, machine learning, and cloud tools including Azure, Databricks, Fabric, PySpark, Spark SQL, and MLOps/CI/CD.
+At the same time, I am actively developing my workflow in AI-assisted and AI-native software development, using tools such as Codex, Cursor, and modern LLM models together with specification-driven development practices to accelerate development, improve code quality, and explore new ways of building software.
+<p>
 
 <p>In addition to IT, I have domain-specific knowledge in automation technology, the process industry, and logistics, enabling me to bridge technical solutions with real-world applications. I am open to opportunities for professional growth where I can apply my skills in data engineering, software development, and industrial technology to create impactful solutions.</p>
 <h5>Education: B.Sc. in computer science & mec. eng. studies</h5>
