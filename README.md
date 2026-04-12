@@ -4,15 +4,13 @@
             height:200px;
             border: solid 1px #CCC"/>
 </p>
+<p>I build data-driven applications with a focus on reliability, structure, and real-world usability.
 
-<p>Java, Spring Boot, Hibernate, Maven, JUnit, Mockito, REST APIs, Python, React, HTML, CSS, SQL, Git, Docker, Azure, Agile development, AI-assisted development (Codex, Cursor, LLMs, specification-driven workflows).</p>
-<div>
-<p>I have a solid foundation in programming, software development, and applied problem-solving, with practical experience in backend development (Java & Spring Boot, including REST APIs) and cloud computing (Azure).<p>
+My technical stack includes Java, Spring Boot, Hibernate, Maven, JUnit, Mockito, REST APIs, PostgreSQL, SQL, Docker, Git, and cloud platforms such as Azure. I also work with Python and frontend technologies including React, HTML, and CSS when needed.
 
-<p>I am actively developing my workflow in AI-assisted and AI-native software development, using tools such as Codex, Cursor, and modern LLM models together with specification- and TDD-driven development practices to accelerate development and explore new ways of building secure software.
-<p>
+I use AI-assisted development tools (Codex, Cursor, modern LLMs) together with specification-driven development and TDD to build structured and maintainable systems. I am particularly interested in how explicit workflows, validation, and orchestration can improve the reliability of AI-assisted software development.
 
-<p>In addition to IT, I have domain-specific knowledge in automation technology, the process industry, and logistics, enabling me to bridge technical solutions with real-world applications. I am open to opportunities for professional growth where I can apply my skills in data engineering, software development, and industrial technology to create impactful solutions.</p>
+In addition to software development, I bring domain knowledge in automation technology, process industry, and logistics, allowing me to connect software systems with real-world applications.</p>
 <h5>Education: B.Sc. in computer science & mec. eng. studies</h5>
 <h5>Blogs: https://medium.com/@tauimonen https://toniuimonen.hashnode.dev/</h5>
 <div>
